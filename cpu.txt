@@ -1,0 +1,7 @@
+產生多個virtual instance
+
+./cpu "One" & ./cpu "Two" & ./cpu "Three" & ./cpu "Four" & 
+
+停止
+
+pkill cpu
